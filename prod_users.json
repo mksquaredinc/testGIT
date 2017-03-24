@@ -1,0 +1,11 @@
+{
+"id": "prod_users",
+"full_access": {
+		"test.user1": "TEST FULL ACCESS USER 1",
+		"test.user2": "TEST FULL ACCESS USER 2"
+	},
+	"restricted_access": {
+		"test.user3": "TEST RESTRICTED ACCESS USER 3",
+		"test.user4": "TEST RESTRICTED ACCESS USER 4"
+	}
+}
